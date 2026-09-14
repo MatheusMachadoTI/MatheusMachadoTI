@@ -89,9 +89,10 @@ Meu foco atualmente está em aprimorar meus conhecimentos em **HTML, CSS, JavaSc
 
 ### 📚 Atualmente estudando
 
-- ⚡ JavaScript
+- ⚡ JavaScript - Nível Intermediário
 - 🌐 Desenvolvimento Full Stack
 - 🔙 Conceitos de Back-end
+- 🐍 Python
 - 🗄️ Banco de Dados
 - 🧠 Lógica de Programação
 
