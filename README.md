@@ -18,15 +18,12 @@ Tenho interesse principalmente em **desenvolvimento web, criação de aplicaçõ
 - 🎨 **CSS3**
 - ⚡ **JavaScript**
 - 🗄️ **MySQL**
-- 🐳 **Docker**
 - 🔧 **Git & GitHub**
 
 
 ##   Atualmente estudando
 
 Estou aprofundando meus conhecimentos em **JavaScript, desenvolvimento Full Stack e bancos de dados**, enquanto inicio meus estudos em **Python e Back-end**.
-
-Meu objetivo é evoluir continuamente e ampliar meus conhecimentos em desenvolvimento de aplicações web.
 
 
 ##   Objetivo
