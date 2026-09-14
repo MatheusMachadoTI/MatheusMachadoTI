@@ -130,25 +130,3 @@ Portfolio responsivo desenvolvido para apresentação de trabalhos de um fotógr
 Meu objetivo é continuar evoluindo como desenvolvedor, adquirir experiência profissional e futuramente atuar como **Desenvolvedor Full Stack**.
 
 Busco uma oportunidade de **estágio ou posição júnior em desenvolvimento**, onde possa aplicar meus conhecimentos, aprender com profissionais da área e contribuir com projetos reais.
-
----
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MatheusMachadoTI&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMachadoTI&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
