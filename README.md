@@ -1,4 +1,4 @@
-#   Olá, eu sou Matheus Machado!
+![Banner](./banner.png)
 
 💻 **Desenvolvedor Web em formação** • 🎓 **Informática para Internet** • 🚀 **Foco em Full Stack**
 
