@@ -117,9 +117,6 @@ Sistema desenvolvido para gerenciamento e acompanhamento de AETs, com foco em or
 
 Site institucional e cardápio digital responsivo desenvolvido para apresentar produtos e informações de um restaurante.
 
-**💼 VittaStudio**
-
-Landing page desenvolvida para apresentação de serviços e identidade visual de um estúdio de beleza fictício.
 
 **📷 Portfolio de Fotografia**
 
