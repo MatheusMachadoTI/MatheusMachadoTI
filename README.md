@@ -94,7 +94,6 @@ Meu foco atualmente está em aprimorar meus conhecimentos em **HTML, CSS, JavaSc
 - 🔙 Conceitos de Back-end
 - 🐍 Python
 - 🗄️ Banco de Dados
-- 🧠 Lógica de Programação
 
 ---
 
